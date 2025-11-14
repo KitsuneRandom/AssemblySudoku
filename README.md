@@ -10,3 +10,9 @@ Résolveur de sudoku en assembleur
 Ce résolveur de sudoku ne prend pas une grille a résoudre, mais juste les 81 chiffres qui compsent cette grille (mettre des 0 a la place des trous). il suffit de les placer dans sudoku.txt et de changer le chemin d'acès au fichier dans le sudoku.asm, au niveau du .data (mettre le chemin absolu). 
 
 il affichera en valeur de retour une grille avec une solution possible
+
+---
+
+<h3>Contributions</h3>
+<p>Mathis DE AZEVEDO : Fonctions de recherches, fonctions de base</p>
+<p>Lucie TRIPIER : Fonction finale, réalisation du Sudoku</p>

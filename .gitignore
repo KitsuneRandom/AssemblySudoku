@@ -1,0 +1,14 @@
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
+
+# Sorties de compilateur (si un jour tu génères des binaires)
+*.o
+*.obj
+*.exe
+*.out
+
+# Fichiers système inutiles
+.DS_Store
+Thumbs.db
